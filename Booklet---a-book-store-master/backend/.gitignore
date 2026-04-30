@@ -1,0 +1,65 @@
+# Backend: Node/Express API
+
+# Dependencies
+node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+config.env
+secrets.json
+
+# Logs and runtime artifacts
+logs/
+*.log
+pids/
+*.pid
+*.pid.lock
+
+# Test and coverage output
+coverage/
+.nyc_output/
+test-results/
+junit.xml
+
+# Build/cache/temp artifacts
+dist/
+build/
+.cache/
+.eslintcache
+.stylelintcache
+*.tsbuildinfo
+tmp/
+temp/
+
+# Local database/data dumps
+playground-*.mongodb.js
+*.mongodb.js
+*.dump
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+data/
+mongodb-data/
+
+# Upload/media artifacts (if stored locally)
+uploads/
+public/uploads/
+
+# Packaging artifacts
+*.tgz
+
+# IDE/editor/OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Docker local overrides
+.docker/
+docker-compose.override.yml

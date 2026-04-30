@@ -1,0 +1,851 @@
+{
+    "available": 1473,
+    "number": 50,
+    "offset": 0,
+    "books": [
+        [
+            {
+                "id": 15353712,
+                "title": "The Hunger Games by Suzanne Collins",
+                "image": "https://covers.openlibrary.org/b/id/7890713-M.jpg",
+                "authors": [
+                    {
+                        "id": 13102494,
+                        "name": "Suzanne Collins"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8659999966621399
+                }
+            }
+        ],
+        [
+            {
+                "id": 15768210,
+                "title": "To Kill a Mockingbird",
+                "image": "https://covers.openlibrary.org/b/id/8410894-M.jpg",
+                "authors": [
+                    {
+                        "id": 15104910,
+                        "name": "Harper Lee"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8539999723434448
+                }
+            }
+        ],
+        [
+            {
+                "id": 28024178,
+                "title": "Great Gatsby",
+                "authors": [
+                    {
+                        "id": 28023376,
+                        "name": "F. Scott Fitzgerald"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7860000133514404
+                }
+            }
+        ],
+        [
+            {
+                "id": 27085786,
+                "title": "The Great Gatsby - F. Scott Fitzgerald Book #3",
+                "image": "https://covers.openlibrary.org/b/id/13775284-M.jpg",
+                "authors": [
+                    {
+                        "id": 13259474,
+                        "name": "F. Scott Fitzgerald"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7860000133514404
+                }
+            }
+        ],
+        [
+            {
+                "id": 18917694,
+                "title": "1984",
+                "image": "https://covers.openlibrary.org/b/id/8579186-M.jpg",
+                "authors": [
+                    {
+                        "id": 13244072,
+                        "name": "George Orwell"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8379999995231628
+                }
+            }
+        ],
+        [
+            {
+                "id": 24999118,
+                "title": "The Great Gatsby CD’LI",
+                "image": "https://covers.openlibrary.org/b/id/12278163-M.jpg",
+                "authors": [
+                    {
+                        "id": 13259474,
+                        "name": "F. Scott Fitzgerald"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7860000133514404
+                }
+            }
+        ],
+        [
+            {
+                "id": 27469566,
+                "title": "Pride and Prejudice A Romantic Novel by Jane Austen",
+                "subtitle": "A Romantic Novel by Jane Austen",
+                "authors": [
+                    {
+                        "id": 13073504,
+                        "name": "Jane Austen"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8579999804496765
+                }
+            }
+        ],
+        [
+            {
+                "id": 24999110,
+                "title": "Gatsby le Magnifique = The Great Gatsby",
+                "image": "https://covers.openlibrary.org/b/id/13310378-M.jpg",
+                "authors": [
+                    {
+                        "id": 13259474,
+                        "name": "F. Scott Fitzgerald"
+                    },
+                    {
+                        "id": 24999108,
+                        "name": "Philippe Jaworski"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7860000133514404
+                }
+            }
+        ],
+        [
+            {
+                "id": 24999126,
+                "title": "The Great Gatsby, with eBook",
+                "image": "https://covers.openlibrary.org/b/id/14097662-M.jpg",
+                "authors": [
+                    {
+                        "id": 13259474,
+                        "name": "F. Scott Fitzgerald"
+                    },
+                    {
+                        "id": 24999124,
+                        "name": "Robertson Dean"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7860000133514404
+                }
+            }
+        ],
+        [
+            {
+                "id": 24999094,
+                "title": "The Great Gatsby",
+                "image": "https://covers.openlibrary.org/b/id/11577074-M.jpg",
+                "authors": [
+                    {
+                        "id": 13259474,
+                        "name": "F. Scott Fitzgerald"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7860000133514404
+                }
+            }
+        ],
+        [
+            {
+                "id": 24999104,
+                "title": "THE GREAT GATSBY",
+                "image": "https://covers.openlibrary.org/b/id/13499494-M.jpg",
+                "authors": [
+                    {
+                        "id": 13259474,
+                        "name": "F. Scott Fitzgerald"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7860000133514404
+                }
+            }
+        ],
+        [
+            {
+                "id": 24999086,
+                "title": "The Great Gatsby",
+                "image": "https://covers.openlibrary.org/b/id/13869870-M.jpg",
+                "authors": [
+                    {
+                        "id": 13259474,
+                        "name": "F. Scott Fitzgerald"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7860000133514404
+                }
+            }
+        ],
+        [
+            {
+                "id": 24999098,
+                "title": "The Great Gatsby",
+                "image": "https://covers.openlibrary.org/b/id/13822215-M.jpg",
+                "authors": [
+                    {
+                        "id": 13259474,
+                        "name": "F. Scott Fitzgerald"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7860000133514404
+                }
+            }
+        ],
+        [
+            {
+                "id": 18111388,
+                "title": "The Great Gatsby",
+                "image": "https://covers.openlibrary.org/b/id/13263945-M.jpg",
+                "authors": [
+                    {
+                        "id": 13259474,
+                        "name": "F. Scott Fitzgerald"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7860000133514404
+                }
+            }
+        ],
+        [
+            {
+                "id": 18810398,
+                "title": "The Hobbit",
+                "subtitle": "or, There and back again",
+                "image": "https://covers.openlibrary.org/b/id/394001-M.jpg",
+                "authors": [
+                    {
+                        "id": 13038776,
+                        "name": "J.R.R. Tolkien"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8560000061988831
+                }
+            }
+        ],
+        [
+            {
+                "id": 17757956,
+                "title": "Catching Fire",
+                "subtitle": "Catching Fire",
+                "image": "https://covers.openlibrary.org/b/id/12878041-M.jpg",
+                "authors": [
+                    {
+                        "id": 13102494,
+                        "name": "Suzanne Collins"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8619999885559082
+                }
+            }
+        ],
+        [
+            {
+                "id": 17887818,
+                "title": "Pride and Prejudice",
+                "image": "https://covers.openlibrary.org/b/id/8085575-M.jpg",
+                "authors": [
+                    {
+                        "id": 13073504,
+                        "name": "Jane Austen"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8560000061988831
+                }
+            }
+        ],
+        [
+            {
+                "id": 17331276,
+                "title": "Pride and Prejudice Annotated",
+                "subtitle": "Annotated",
+                "image": "https://covers.openlibrary.org/b/id/13283996-M.jpg",
+                "authors": [
+                    {
+                        "id": 13073504,
+                        "name": "Jane Austen"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8560000061988831
+                }
+            }
+        ],
+        [
+            {
+                "id": 17285422,
+                "title": "Jane Austen's Pride and prejudice",
+                "image": "https://covers.openlibrary.org/b/id/12648559-M.jpg",
+                "authors": [
+                    {
+                        "id": 13073504,
+                        "name": "Jane Austen"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8560000061988831
+                }
+            }
+        ],
+        [
+            {
+                "id": 20837092,
+                "title": "Pride and Prejudice By Jane Austen",
+                "subtitle": "By Jane Austen",
+                "image": "https://covers.openlibrary.org/b/id/13290989-M.jpg",
+                "authors": [
+                    {
+                        "id": 13073504,
+                        "name": "Jane Austen"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8560000061988831
+                }
+            }
+        ],
+        [
+            {
+                "id": 16296092,
+                "title": "Pride and Prejudice",
+                "subtitle": "An Authoritative Text, Backgrounds and Sources, Criticism",
+                "image": "https://covers.openlibrary.org/b/id/8467244-M.jpg",
+                "authors": [
+                    {
+                        "id": 13073504,
+                        "name": "Jane Austen"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8560000061988831
+                }
+            }
+        ],
+        [
+            {
+                "id": 14409172,
+                "title": "Pride and prejudice",
+                "image": "https://covers.openlibrary.org/b/id/9277929-M.jpg",
+                "authors": [
+                    {
+                        "id": 13073504,
+                        "name": "Jane Austen"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8560000061988831
+                }
+            }
+        ],
+        [
+            {
+                "id": 23493436,
+                "title": "Pride and Prejudice 2019 NEW EDITION. One of Jane Austen's Most Popular Romantic Novels Written in 1813 That Has Sold over 20 Million Copies and Has Been Adapted into Films",
+                "subtitle": "2019 NEW EDITION. One of Jane Austen's Most Popular Romantic Novels Written in 1813 That Has Sold over 20 Million Copies and Has Been Adapted into Films",
+                "image": "https://covers.openlibrary.org/b/id/13306851-M.jpg",
+                "authors": [
+                    {
+                        "id": 13073504,
+                        "name": "Jane Austen"
+                    },
+                    {
+                        "id": 23493434,
+                        "name": "A. J. HENRY"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8560000061988831
+                }
+            }
+        ],
+        [
+            {
+                "id": 27067084,
+                "title": "The Fellowship of the Ring",
+                "image": "https://covers.openlibrary.org/b/id/13530646-M.jpg",
+                "authors": [
+                    {
+                        "id": 13038776,
+                        "name": "J.R.R. Tolkien"
+                    },
+                    {
+                        "id": 27067082,
+                        "name": "Rob Inglis"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8799999952316284
+                }
+            }
+        ],
+        [
+            {
+                "id": 20739958,
+                "title": "Pride and Prejudice",
+                "image": "https://covers.openlibrary.org/b/id/12648774-M.jpg",
+                "authors": [
+                    {
+                        "id": 13073504,
+                        "name": "Jane Austen"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8560000061988831
+                }
+            }
+        ],
+        [
+            {
+                "id": 24355534,
+                "title": "Pride and Prejudice",
+                "subtitle": "with Connections",
+                "image": "https://covers.openlibrary.org/b/id/4348088-M.jpg",
+                "authors": [
+                    {
+                        "id": 13073504,
+                        "name": "Jane Austen"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8560000061988831
+                }
+            }
+        ],
+        [
+            {
+                "id": 21889836,
+                "title": "The Kite Runner",
+                "image": "https://covers.openlibrary.org/b/id/9248229-M.jpg",
+                "authors": [
+                    {
+                        "id": 13290436,
+                        "name": "Khaled Hosseini"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8659999966621399
+                }
+            }
+        ],
+        [
+            {
+                "id": 18409862,
+                "title": "Animal Farm With Connections",
+                "image": "https://covers.openlibrary.org/b/id/10524386-M.jpg",
+                "authors": [
+                    {
+                        "id": 13244072,
+                        "name": "George Orwell"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7960000038146973
+                }
+            }
+        ],
+        [
+            {
+                "id": 23663662,
+                "title": "Animal Farm and Related Readings (Glencoe Literature Library)",
+                "image": "https://covers.openlibrary.org/b/id/9999292-M.jpg",
+                "authors": [
+                    {
+                        "id": 13244072,
+                        "name": "George Orwell"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7960000038146973
+                }
+            }
+        ],
+        [
+            {
+                "id": 14090022,
+                "title": "Animal farm a fairy story",
+                "subtitle": "a fairy story",
+                "image": "https://covers.openlibrary.org/b/id/10524476-M.jpg",
+                "authors": [
+                    {
+                        "id": 13244072,
+                        "name": "George Orwell"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7960000038146973
+                }
+            }
+        ],
+        [
+            {
+                "id": 17938894,
+                "title": "Animal Farm/Coles Notes",
+                "image": "https://covers.openlibrary.org/b/id/12862185-M.jpg",
+                "authors": [
+                    {
+                        "id": 13244072,
+                        "name": "George Orwell"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7960000038146973
+                }
+            }
+        ],
+        [
+            {
+                "id": 17938926,
+                "title": "Animal Farm and Related Readings",
+                "image": "https://covers.openlibrary.org/b/id/10524346-M.jpg",
+                "authors": [
+                    {
+                        "id": 13244072,
+                        "name": "George Orwell"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7960000038146973
+                }
+            }
+        ],
+        [
+            {
+                "id": 16961564,
+                "title": "Animal Farm",
+                "image": "https://covers.openlibrary.org/b/id/-1-M.jpg",
+                "authors": [
+                    {
+                        "id": 13244072,
+                        "name": "George Orwell"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7960000038146973
+                }
+            }
+        ],
+        [
+            {
+                "id": 22272124,
+                "title": "The lord of the rings",
+                "image": "https://covers.openlibrary.org/b/id/13201380-M.jpg",
+                "authors": [
+                    {
+                        "id": 13038776,
+                        "name": "J.R.R. Tolkien"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8759999871253967
+                }
+            }
+        ],
+        [
+            {
+                "id": 20182138,
+                "title": "The Fellowship of the Ring",
+                "subtitle": "Being the first part of The Lord of the Rings",
+                "image": "https://covers.openlibrary.org/b/id/8171428-M.jpg",
+                "authors": [
+                    {
+                        "id": 13038776,
+                        "name": "J.R.R. Tolkien"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8759999871253967
+                }
+            }
+        ],
+        [
+            {
+                "id": 16020306,
+                "title": "Gone Girl",
+                "subtitle": "a novel",
+                "image": "https://covers.openlibrary.org/b/id/11567795-M.jpg",
+                "authors": [
+                    {
+                        "id": 16020298,
+                        "name": "Gillian Flynn"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8240000009536743
+                }
+            }
+        ],
+        [
+            {
+                "id": 21765364,
+                "title": "Angels & demons",
+                "image": "https://covers.openlibrary.org/b/id/11408194-M.jpg",
+                "authors": [
+                    {
+                        "id": 13189766,
+                        "name": "Dan Brown"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7860000133514404
+                }
+            }
+        ],
+        [
+            {
+                "id": 23027824,
+                "title": "The girl on the train",
+                "image": "https://covers.openlibrary.org/b/id/10231953-M.jpg",
+                "authors": [
+                    {
+                        "id": 21877842,
+                        "name": "Paula Hawkins"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7900000214576721
+                }
+            }
+        ],
+        [
+            {
+                "id": 24188152,
+                "title": "The girl on the train",
+                "image": "https://covers.openlibrary.org/b/id/11005407-M.jpg",
+                "authors": [
+                    {
+                        "id": 21877842,
+                        "name": "Paula Hawkins"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7900000214576721
+                }
+            }
+        ],
+        [
+            {
+                "id": 19331354,
+                "title": "The illustrated Alchemist",
+                "subtitle": "a fable about following your dream",
+                "image": "https://covers.openlibrary.org/b/id/22871-M.jpg",
+                "authors": [
+                    {
+                        "id": 13100698,
+                        "name": "Paulo Coelho"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7799999713897705
+                }
+            }
+        ],
+        [
+            {
+                "id": 15701868,
+                "title": "The Da Vinci Code",
+                "subtitle": "a novel",
+                "image": "https://covers.openlibrary.org/b/id/10520459-M.jpg",
+                "authors": [
+                    {
+                        "id": 13189766,
+                        "name": "Dan Brown"
+                    },
+                    {
+                        "id": 14217666,
+                        "name": "Paul Michael"
+                    },
+                    {
+                        "id": 27081396,
+                        "name": "Dan Brown"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7799999713897705
+                }
+            }
+        ],
+        [
+            {
+                "id": 19519202,
+                "title": "Thousand Splendid Suns",
+                "image": "https://covers.openlibrary.org/b/id/12581285-M.jpg",
+                "authors": [
+                    {
+                        "id": 13290436,
+                        "name": "Khaled Hosseini"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8840000033378601
+                }
+            }
+        ],
+        [
+            {
+                "id": 17228774,
+                "title": "Mil sols esplèndids",
+                "image": "https://covers.openlibrary.org/b/id/8579787-M.jpg",
+                "authors": [
+                    {
+                        "id": 13290436,
+                        "name": "Khaled Hosseini"
+                    },
+                    {
+                        "id": 27067736,
+                        "name": "Beatriu Cajal"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8840000033378601
+                }
+            }
+        ],
+        [
+            {
+                "id": 20387084,
+                "title": "A Thousand Splendid Suns (Readers Circle (Center Point))",
+                "image": "https://covers.openlibrary.org/b/id/2010945-M.jpg",
+                "authors": [
+                    {
+                        "id": 13290436,
+                        "name": "Khaled Hosseini"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8840000033378601
+                }
+            }
+        ],
+        [
+            {
+                "id": 27559358,
+                "title": "Looking for Alaska",
+                "authors": [
+                    {
+                        "id": 13145446,
+                        "name": "John Green - undifferentiated"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7919999957084656
+                }
+            }
+        ],
+        [
+            {
+                "id": 18542786,
+                "title": "Looking for Alaska",
+                "image": "https://covers.openlibrary.org/b/id/1818573-M.jpg",
+                "authors": [
+                    {
+                        "id": 13145446,
+                        "name": "John Green - undifferentiated"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7960000038146973
+                }
+            }
+        ],
+        [
+            {
+                "id": 16984526,
+                "title": "Looking for Alaska",
+                "image": "https://covers.openlibrary.org/b/id/13307643-M.jpg",
+                "authors": [
+                    {
+                        "id": 16984520,
+                        "name": "John Green"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7960000038146973
+                }
+            }
+        ],
+        [
+            {
+                "id": 27067750,
+                "title": "Ciutats de paper",
+                "image": "https://covers.openlibrary.org/b/id/13524712-M.jpg",
+                "authors": [
+                    {
+                        "id": 16984520,
+                        "name": "John Green"
+                    },
+                    {
+                        "id": 27067646,
+                        "name": "Mercè Santaularia Campillo"
+                    }
+                ],
+                "rating": {
+                    "average": 0.7400000095367432
+                }
+            }
+        ],
+        [
+            {
+                "id": 20778556,
+                "title": "Two Towers : The Lord of the Rings",
+                "subtitle": "Part Two",
+                "image": "https://covers.openlibrary.org/b/id/13220226-M.jpg",
+                "authors": [
+                    {
+                        "id": 13038776,
+                        "name": "J.R.R. Tolkien"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8939999938011169
+                }
+            }
+        ],
+        [
+            {
+                "id": 15360182,
+                "title": "The Two Towers",
+                "subtitle": "Being the Second Part of The Lord of the Rings",
+                "image": "https://covers.openlibrary.org/b/id/10511021-M.jpg",
+                "authors": [
+                    {
+                        "id": 13038776,
+                        "name": "J.R.R. Tolkien"
+                    }
+                ],
+                "rating": {
+                    "average": 0.8939999938011169
+                }
+            }
+        ]
+    ]
+}

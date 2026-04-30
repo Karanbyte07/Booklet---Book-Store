@@ -1,0 +1,21 @@
+{
+  "short_name": "Booklet",
+  "name": "Booklet Online Bookstore",
+  "icons": [
+    {
+      "src": "images/favicon.png",
+      "sizes": "192x192 64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logo.png",
+      "type": "image/png",
+      "sizes": "1024x1024",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f97316",
+  "background_color": "#ffffff"
+}
