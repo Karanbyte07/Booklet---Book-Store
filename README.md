@@ -1,6 +1,8 @@
 # 📚 Booklet - MERN Stack E-commerce Application
 
-![Booklet Logo]([https://ibb.co/MkPq4bT7])
+<p align="center">
+   <img src="https://i.ibb.co/YBfvM69h/Chat-GPT-Image-Feb-22-2026-10-21-05-PM.png" alt="Booklet Logo" width="220" />
+</p>
 ## 🌟 Overview
 
 **Booklet** is a modern, full-stack e-commerce web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) specifically designed for selling books online. The application features a beautiful, responsive design with Tailwind CSS and provides a complete shopping experience for both customers and administrators.
